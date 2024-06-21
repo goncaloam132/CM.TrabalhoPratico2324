@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000444771700",
+    "project_id": "queimaaqui",
+    "storage_bucket": "queimaaqui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000444771700:android:f45fd87a70aef35e1b0021",
+        "android_client_info": {
+          "package_name": "com.example.queimaaqui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj27M9pasoe7dQj2xfXe4TvbfU9YP4uq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

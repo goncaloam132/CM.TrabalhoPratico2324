@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QueimaAqui" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personalize seus atributos do tema aqui -->
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:windowBackground">@color/BackGround</item>
+
+
+    </style>
+
+
+</resources>

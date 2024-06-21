@@ -1,0 +1,9 @@
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/LoginBTN"/> <!-- Cor de fundo do botão -->
+    <corners
+        android:topLeftRadius="0dp"
+        android:bottomLeftRadius="0dp"
+        android:topRightRadius="50dp"
+        android:bottomRightRadius="50dp"/> <!-- Raios dos cantos específicos -->
+</shape>
